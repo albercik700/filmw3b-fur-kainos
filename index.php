@@ -1,15 +1,15 @@
 <html>
 <head>
 	<title>FilmW3b</title>
-	<link href="/filmdb/styl.css" rel="stylesheet" type="text/css"/>
+	<link href="/styl.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <div id="kontener">
 	<div id="header">
 	<ul>
-	<li><a href="/filmdb/Home">Strona głowna</a></li>
-	<li><a href="/filmdb/topGenre">Diagram</a></li>
-	<li><a href="/filmdb/search">Search</a></li>
+	<li><a href="/Home">Strona głowna</a></li>
+	<li><a href="/topGenre">Diagram</a></li>
+	<li><a href="/search">Search</a></li>
 	</ul>
 	<br /><hr style="color:white;" /><br />
 	</div>
