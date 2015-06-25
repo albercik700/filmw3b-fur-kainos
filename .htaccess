@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^Home /index.php [L]
+RewriteRule ^topGenre /?p=topGenre [L]
+RewriteRule ^search /?p=search [L]
+RewriteRule ^movie/([0-9]+)$ /?p=$1 [L]
