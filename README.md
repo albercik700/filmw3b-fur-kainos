@@ -25,3 +25,6 @@ Do zadania należy użyć bazy danych z filmami. Dane do połączenia:
 W razie problemów z ilością połączeń do bazy, można zahostować własną.
 
 W razie innych problemów lub wątpliwości pisz na konkurs@kainos.com
+
+IMPLEMENTACJA:
+https://polar-savannah-4388.herokuapp.com
